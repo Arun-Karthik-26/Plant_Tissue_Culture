@@ -1,24 +1,15 @@
-Plant Tissue Culture
-Introduction
-Plant tissue culture is a technique used to grow plants under sterile conditions in a controlled environment. It involves cultivating plant cells, tissues, or organs in nutrient-rich media to regenerate whole plants. This method is widely used in agriculture, horticulture, and research for mass propagation, genetic improvement, and conservation of plant species.
+Introduction to Plant Tissue Culture
+Plant tissue culture is a sophisticated technique that involves growing plant cells, tissues, or organs in a controlled, sterile environment. This method is used to regenerate whole plants from small sections of plant material, offering a variety of applications in agriculture, horticulture, and research. It is particularly valuable for mass propagation, genetic enhancement, disease resistance development, and the conservation of endangered plant species.
 
 Process of Plant Tissue Culture
-1. Selection of Plant Material
-Healthy and disease-free plant tissues (such as leaves, stems, or meristematic cells) are selected for culture.
-The choice of plant material depends on the purpose of the culture (e.g., propagation, genetic modification, or disease resistance).
-2. Sterilization
-To prevent contamination, plant material is sterilized using chemical agents like ethanol, sodium hypochlorite, or mercury chloride.
-Culture vessels, tools, and media are also sterilized using an autoclave.
-3. Preparation of Culture Medium
-The growth medium contains essential nutrients, vitamins, and plant growth regulators.
-Commonly used media include Murashige and Skoog (MS) medium and Gamborg’s B5 medium.
-The medium may be solidified using agar or remain in liquid form for different culture techniques.
-4. Inoculation and Incubation
-The sterilized plant material is placed into the culture medium under aseptic conditions in a laminar airflow chamber.
-The cultures are incubated under controlled temperature, light, and humidity to promote growth.
-5. Callus Formation & Organogenesis
-In some cases, the plant tissue forms an undifferentiated mass called callus before developing into shoots and roots.
-Organogenesis refers to the formation of new organs (shoots or roots) from the callus under the influence of growth hormones like auxins and cytokinins.
-6. Rooting and Hardening
-Once shoots develop, they are transferred to rooting media to promote root formation.
-The young plants are then gradually adapted to external environmental conditions in a greenhouse or nursery.
+Selection of Plant Material The success of tissue culture begins with the careful selection of healthy, disease-free plant material. Common choices include meristematic cells, leaves, stems, or buds. The type of plant material chosen depends on the specific objective of the culture, such as propagation, genetic modification, or the development of disease resistance.
+
+Sterilization To ensure a sterile environment and prevent microbial contamination, the selected plant material is thoroughly sterilized. Chemical agents like ethanol, sodium hypochlorite, or mercuric chloride are commonly used. Additionally, culture vessels, tools, and media are sterilized through autoclaving to maintain aseptic conditions.
+
+Preparation of Culture Medium The culture medium provides essential nutrients, vitamins, and plant growth regulators required for cell division and differentiation. The most commonly used media are Murashige and Skoog (MS) medium and Gamborg's B5 medium. The medium can be solidified using agar or left in liquid form, depending on the type of culture being performed.
+
+Inoculation and Incubation Under sterile conditions, the plant material is carefully inoculated onto the prepared medium. This step is performed in a laminar airflow cabinet to prevent contamination. Once inoculated, the cultures are incubated in a controlled environment with specific temperature, light intensity, and humidity to promote optimal growth.
+
+Callus Formation and Organogenesis In some cases, plant tissues first form a callus—an undifferentiated mass of cells. The callus can then differentiate into specialized organs like shoots or roots. The presence of plant hormones, especially auxins (for root formation) and cytokinins (for shoot development), plays a crucial role in this process of organogenesis.
+
+Rooting and Hardening After the shoots have formed, they are transferred to a rooting medium that encourages the development of roots. Once the plantlets have successfully developed roots, they are gradually acclimatized to the external environment. This step, known as hardening, is usually carried out in a greenhouse or controlled nursery to allow the young plants to adjust to ambient temperature, humidity, and light conditions before being transferred to the field or garden.
