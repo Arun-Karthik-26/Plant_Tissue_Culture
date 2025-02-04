@@ -1,0 +1,134 @@
+/* General Styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Container Styling */
+.register-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 80vh;
+    padding: 50px;
+    gap: 50px; /* Adjusted the gap for better spacing */
+}
+
+/* Image Section */
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px; /* Adjusted the margin */
+}
+
+.register-image {
+    max-width: 100%; /* Makes the image more responsive */
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Form Styling */
+.form-container {
+    flex: 1;
+    max-width: 400px;
+    background-color: white;
+    padding: 40px 30px; /* Added horizontal padding for better layout */
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1); /* Slightly increased shadow for depth */
+    border-radius: 10px;
+}
+
+.form-title {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.form-subtitle {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #777;
+    font-size: 16px; /* Added font size */
+}
+
+/* Input Styling */
+input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px; /* Increased spacing */
+    border: 1px solid #ccc; /* Made the border color lighter */
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.3s; /* Added smooth transition */
+}
+
+input:focus {
+    border-color: #e63946;
+    outline: none; /* Remove default outline */
+}
+
+/* Checkbox Styling */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.checkbox-container input {
+    width: 18px;
+    height: 18px;
+}
+
+.checkbox-container label {
+    font-size: 14px;
+    color: #555;
+}
+
+.checkbox-container span {
+    color: #e63946;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Button Styling */
+.register-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #e63946;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px; /* Added margin for separation */
+}
+
+.register-button:hover {
+    background-color: #d62839;
+}
+
+/* Sign In Text */
+.signin-text {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+    font-size: 14px; /* Added font size for consistency */
+}
+
+.signin-text a {
+    color: #e63946;
+    text-decoration: none;
+}
+
+.signin-text a:hover {
+    text-decoration: underline; /* Added underline effect on hover */
+}

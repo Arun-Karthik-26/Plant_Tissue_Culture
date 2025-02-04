@@ -1,0 +1,50 @@
+.research-section {
+    padding: 20px;
+    background-image: url('https://www.shutterstock.com/image-photo/banner-background-health-care-researchers-260nw-1980589415.jpg'); /* Set your background image */
+    background-size: cover; /* Ensure the background image covers the entire section */
+    background-position: center; /* Center the background image */
+    min-height: 100vh; /* Ensure the section takes up at least the full height of the viewport */
+    display: flex; /* Use flexbox for centering */
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between; /* Distributes space between left and right containers */
+    width: 100%; /* Full width for the container */
+    max-width: 1200px; /* Optional: set a max width for larger screens */
+}
+
+.left-container,
+.right-container {
+    flex: 1; /* Flex property allows for responsive design */
+    margin: 10px; /* Add margin for spacing */
+    padding: 20px; /* Padding inside the container */
+    background-color: rgba(248, 249, 250, 0.9); /* Light background with some transparency */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+    text-align: center; /* Center text inside the containers */
+}
+
+.btn {
+    background-color: #007bff; /* Button color */
+    color: white; /* Text color */
+    padding: 10px 15px; /* Button padding */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded button corners */
+    cursor: pointer; /* Pointer cursor for buttons */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+    }
+}
